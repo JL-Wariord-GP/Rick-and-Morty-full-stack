@@ -6,6 +6,9 @@ const CardResidents = ({url}) => {
 
   return (
     <div >
+            {
+                //!RESIDENT
+            }
         <section>
             <div className='box-style-card' >
                 <div className='style-img-card'>
